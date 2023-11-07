@@ -1,0 +1,16 @@
+h1 {
+    background-color: rgb(18, 224, 156);
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(43, 202, 202);
+}
+
+li {
+    background-color: rgb(18, 224, 156);
+    color: black;
+    text-align: center;
+}

@@ -4,7 +4,7 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     display: block;
-    padding: 8px 16px;
+    padding: 16px;
     margin: 8px 16px;
 }
 
@@ -26,12 +26,14 @@ li {
     text-align: center;
 }
 
-img {
-    border-image: auto;
+#toprecipe {
+    display: flex;
+    margin: 0 auto;
+    padding: 50px;
 }
 
 ul {
     display: block;
     margin: 20px;
-    padding: 20px;
+    padding: 0px;
 }
